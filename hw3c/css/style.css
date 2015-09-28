@@ -1,0 +1,27 @@
+body {
+	background-color: blue;
+}
+
+.container{ width: 960px;
+	background-color: white;
+	margin: 0px auto;
+}
+
+header { 
+width :960px;
+height: 75px;
+background-color: orange;
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    height: auto;
+    width: auto;
+    float: left;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+}
